@@ -1,2 +1,0 @@
-# SimpleChat
-A simple chat
